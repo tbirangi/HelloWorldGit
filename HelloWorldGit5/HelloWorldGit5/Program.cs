@@ -8,7 +8,7 @@ namespace HelloWorldGit5
 {
     class Program
     {
-        static void Main(string[] args)
+        static void M ain(string[] args)
         {
         }
     }
